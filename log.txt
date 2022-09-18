@@ -1,0 +1,48 @@
+сент. 18, 2022 4:46:08 PM SimpleClient processClient
+INFO: client connected, port 52494
+сент. 18, 2022 4:46:11 PM SimpleClient processClient
+INFO: Quote for client 52494 : "A great chessplayer is not a great man, for he leaves the world as he found it." - William Hazlitt, Table-Talk, Essays on Men and Manners
+сент. 18, 2022 4:46:12 PM SimpleClient processClient
+INFO: Quote for client 52494 : "We encounter great souls by reading great books." - Lailah Gifty Akita, Think Great: Be Great!
+сент. 18, 2022 4:46:23 PM SimpleClient processClient
+INFO: client connected, port 52495
+сент. 18, 2022 4:46:24 PM SimpleClient processClient
+INFO: Quote for client 52495 : "Darkest times, great men evolve." - Lailah Gifty Akita, Pearls of Wisdom: Great mind
+сент. 18, 2022 4:46:25 PM SimpleClient processClient
+INFO: Quote for client 52495 : "Fly you crows. My father was not a spectacle. He was the greatest man I ever knew. He was my everything." - Stacey Lee, Under a Painted Sky
+сент. 18, 2022 4:46:26 PM SimpleClient processClient
+INFO: Quote for client 52495 : "We rely only on God in the wilderness." - Lailah Gifty Akita, Pearls of Wisdom: Great mind
+сент. 18, 2022 4:46:59 PM SimpleClient processClient
+INFO: client connected, port 52500
+сент. 18, 2022 4:47:01 PM SimpleClient processClient
+INFO: Quote for client 52500 : "Whoever walk with great people will be great." - Lailah Gifty Akita, Think Great: Be Great!
+сент. 18, 2022 4:47:02 PM SimpleClient processClient
+INFO: Disabling a client 52500
+сент. 18, 2022 4:47:09 PM SimpleClient processClient
+INFO: client connected, port 52504
+сент. 18, 2022 4:47:21 PM SimpleClient processClient
+INFO: Quote for client 52504 : "Only when there are things a man will not do is he capable of doing great things." - Mencius
+сент. 18, 2022 4:47:38 PM SimpleClient processClient
+INFO: client connected, port 52506
+сент. 18, 2022 4:47:40 PM SimpleClient processClient
+INFO: Quote for client 52506 : "The greatness of God alone is greater than the greatness of many great men combined." - Gift Gugu Mona, Daily Quotes about God: 365 Days of Heavenly Inspiration
+сент. 18, 2022 4:47:41 PM SimpleClient processClient
+INFO: Quote for client 52506 : "Fly you crows. My father was not a spectacle. He was the greatest man I ever knew. He was my everything." - Stacey Lee, Under a Painted Sky
+сент. 18, 2022 4:47:51 PM SimpleClient processClient
+INFO: client connected, port 52512
+сент. 18, 2022 4:47:53 PM SimpleClient processClient
+INFO: Quote for client 52512 : "You want to be great? Help others achieve their greatness" - Bangambiki Habyarimana, Pearls Of Eternity
+сент. 18, 2022 4:49:31 PM SimpleClient processClient
+INFO: Disabling a client 52504
+сент. 18, 2022 4:49:50 PM SimpleClient processClient
+INFO: client connected, port 52529
+сент. 18, 2022 4:49:57 PM SimpleClient processClient
+INFO: Quote for client 52529 : "There lived great souls in the history of the world." - Lailah Gifty Akita, Think Great: Be Great!
+сент. 18, 2022 4:49:57 PM SimpleClient processClient
+INFO: Quote for client 52529 : "Bill Gates wasn't born rich but he wasn't poor either even before he discovered Microsoft, he was just waiting for a connecting flight to the boulevards of greatness." - Ikechukwu Izuakor, Great Reflections on Success
+сент. 18, 2022 4:49:58 PM SimpleClient processClient
+INFO: Quote for client 52529 : "You want to be great? Help others achieve their greatness" - Bangambiki Habyarimana, Pearls Of Eternity
+сент. 18, 2022 4:56:27 PM SimpleClient processClient
+INFO: Quote for client 52529 : "Feeling low is normal, or sometimes, healthy. A lot of great things this world has witnessed were kickstarted by men when they felt low." - Swaraj Priyadarshi
+сент. 18, 2022 4:56:28 PM SimpleClient processClient
+INFO: Disabling a client 52529
